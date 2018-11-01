@@ -1,5 +1,5 @@
 # VPS
-easy build VPS by 搬瓦工
+easy build VPS
 ## 购买搬瓦工
 ## 搭建SS连接
 1. 进入搬瓦工个人服务面板，点击“KiviVM Control Panel”进入控制面板，记录IP地址等信息
