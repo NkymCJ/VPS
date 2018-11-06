@@ -1,4 +1,4 @@
-# easy build VPS
+# VPS
 
 简单地构建VPS
 
