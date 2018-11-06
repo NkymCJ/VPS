@@ -1,6 +1,6 @@
 # easy build VPS
 
-简单的构建VPS
+简单地构建VPS
 
 ## 购买搬瓦工
 
