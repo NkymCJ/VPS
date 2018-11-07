@@ -2,22 +2,22 @@
 
 简单地构建VPS
 
-## 购买搬瓦工
+### 购买搬瓦工
 
-## 搭建SS连接
+### 搭建SS连接
 
 1. 进入搬瓦工个人服务面板，点击“KiviVM Control Panel”进入控制面板，记录IP地址等信息
 2. 点击面板左侧“Shadowsocks Server”，点击“Install Shadowsocks Server”，一键安装ss服务，完成后点击“Go back”，记录端口、密码、连接方法等信息
     > 面板左侧若没有“Shadowsocks Server”，则在新标签页打开“https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks”
-    
-## 配置SS Windows客户端
+
+### 配置SS Windows客户端
 
 1. 下载“shadowsocks.zip”，解压运行“Shadowsocks.exe”
     > 此处的压缩包也可以在“Go back”完成后的页面里下载
 2. 填入购买的VPS的IP，SS安装完成后使用的端口、密码和连接方法，点击添加按钮，点击确定
 3. 右键点击Shadowsocks，开启系统代理
 
-## 配置SS Iphone App
+### 配置SS Iphone App
 
 1. “App Store”下载“SsrConnectPro”
 2. 点击右上角“+”，添加SS连接
